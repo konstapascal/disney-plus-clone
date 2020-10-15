@@ -1,0 +1,22 @@
+{
+	"name": "disney-plus-clone",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "parcel serve index.html"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/konstapascal/disney-plus-clone.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/konstapascal/disney-plus-clone/issues"
+	},
+	"homepage": "https://github.com/konstapascal/disney-plus-clone#readme",
+	"dependencies": {
+		"tailwindcss": "^1.9.2"
+	}
+}
